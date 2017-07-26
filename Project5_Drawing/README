@@ -1,8 +1,0 @@
-This is a small drawing application  that functions as follows:
-o	When the user clicks in the drawing space, the pen is turned on. The user can then move the mouse to draw. The user clicks again to turn the pen off. 
-o	Note: the user does not click-and-drag to draw. Instead, it's click once to turn on, move to draw, click once to turn off.
-o	The user does not have to hold down the mouse to draw!
-o	The user can select from four different pen colors. 
-o	The user can also select an "eraser" pen. 
-o	The user can change the size of the pen using +/- buttons.
-o	There is a clear button that clears the entire drawing space. 
